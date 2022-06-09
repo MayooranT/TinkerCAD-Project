@@ -1,0 +1,11 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"R1",1," Photoresistor"
+"R3",1,"1 kΩ Resistor"
+"U2",1," Temperature Sensor [TMP36]"
+"M1",1," DC Motor"
+"BAT1",1," 9V Battery"
+"T1",1," NPN Transistor (BJT)"
+"R4",1,"330 Ω Resistor"
+"D1",1," Diode"
+"SERVO1",1,"Positional Micro Servo"
